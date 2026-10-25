@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 // githubError turns an error from the GitHub client into a message written

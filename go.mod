@@ -1,4 +1,4 @@
-module github-mcp-server
+module github.com/MuhammadAmas/github-mcp-server
 
 go 1.27.2
 

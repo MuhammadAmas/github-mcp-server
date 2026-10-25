@@ -11,7 +11,7 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 // connect starts the real server (with a fake GitHub behind it) and an MCP

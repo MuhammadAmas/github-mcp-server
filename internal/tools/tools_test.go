@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 // fakeGitHub starts a fake GitHub API that answers with handler, and returns

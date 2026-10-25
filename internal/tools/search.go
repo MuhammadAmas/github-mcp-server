@@ -8,7 +8,7 @@ import (
 	"github.com/google/jsonschema-go/jsonschema"
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 var (

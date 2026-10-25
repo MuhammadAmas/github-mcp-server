@@ -3,7 +3,7 @@ package tools
 import (
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 // Register adds every GitHub tool to server. All tools share gh, so they

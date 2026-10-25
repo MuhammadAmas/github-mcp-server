@@ -27,8 +27,8 @@ import (
 
 	"github.com/modelcontextprotocol/go-sdk/mcp"
 
-	"github-mcp-server/internal/github"
-	"github-mcp-server/internal/tools"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/tools"
 )
 
 const (

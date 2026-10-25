@@ -12,7 +12,7 @@ import (
 	"os"
 	"time"
 
-	"github-mcp-server/internal/github"
+	"github.com/MuhammadAmas/github-mcp-server/internal/github"
 )
 
 func main() {

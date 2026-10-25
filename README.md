@@ -77,8 +77,19 @@ Dependencies point one way only: `cmd/server` → `internal/tools` → `internal
 
 ## Build and run
 
+Install the latest version without cloning:
+
 ```bash
-cd ~/Downloads/personal/github-mcp-server
+go install github.com/MuhammadAmas/github-mcp-server/cmd/server@latest
+```
+
+Go names the binary after its folder, so this installs it as `server` in `$(go env GOPATH)/bin` (usually `~/go/bin/server`). Use that full path as the `command` in client configs.
+
+Or build from a clone:
+
+```bash
+git clone https://github.com/MuhammadAmas/github-mcp-server.git
+cd github-mcp-server
 go build -o bin/github-mcp-server ./cmd/server
 ```
 
