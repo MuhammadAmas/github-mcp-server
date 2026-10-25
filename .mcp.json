@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "github-mcp-server": {
+      "type": "stdio",
+      "command": "/Users/apple/Downloads/personal/github-mcp-server/bin/github-mcp-server",
+      "args": []
+    }
+  }
+}
